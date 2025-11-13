@@ -1,0 +1,16 @@
+# Pycache
+__pycache__
+/app/**/__pycache__/
+
+# Migration
+migrations
+
+# Storage
+assets/data/*
+assets/images/output/*
+assets/videos/*
+assets/data-test/*
+
+# ENV and Library
+.venv
+.env
